@@ -7,4 +7,4 @@
 
 [java-8](https://github.com/erkan4534/tutorials/wiki/java-8)
 
-[Intelliji](https://github.com/erkan4534/tutorials/wiki/java-8)
+[Intellij](https://github.com/erkan4534/tutorials/wiki/intellij)
