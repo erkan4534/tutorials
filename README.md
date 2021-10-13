@@ -11,4 +11,4 @@
 
 [Java Interview](https://github.com/erkan4534/tutorials/wiki/Java-interview)
 
-
+[Algoritma](https://github.com/erkan4534/tutorials/wiki/Algoritma)
