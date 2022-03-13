@@ -1,5 +1,5 @@
   
-[İnternetin calisma mantigi](https://github.com/erkan4534/tutorials/blob/main/internet_work.JPG)
+[İnternetin Çalisma Mantığı](https://github.com/erkan4534/tutorials/blob/main/internet_work.JPG)
 
 [Kurumsal Database Mirarisi](https://github.com/erkan4534/tutorials/wiki/Kurumsal-Database)
 
