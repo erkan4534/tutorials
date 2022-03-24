@@ -5,6 +5,8 @@
 
 [Css](https://github.com/erkan4534/tutorials/wiki/CSS)
 
+[Javascript](https://github.com/erkan4534/tutorials/wiki/javascript)
+
 [Bootstrap](https://github.com/erkan4534/tutorials/wiki/Bootstrap)
 
 [Kurumsal Database Mirarisi](https://github.com/erkan4534/tutorials/wiki/Kurumsal-Database)
