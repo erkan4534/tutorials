@@ -37,6 +37,6 @@
 
 [Devops](https://github.com/erkan4534/tutorials/wiki/Devops)
 
-[Kafka](https://github.com/erkan4534/tutorials/wiki/kafka).
+[Kafka](https://github.com/erkan4534/tutorials/wiki/kafka)
 
 
